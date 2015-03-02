@@ -17,9 +17,20 @@
 <script>
 L.mapbox.accessToken = 'pk.eyJ1IjoiZWxzZXdpc2UiLCJhIjoiWGpDbG9RYyJ9.ZqfX-6R6-tOEvTagnLj60A';
 var map = L.mapbox.map('map', 'elsewise.lbij32pa')
-    .setView([45.53, -122.7], 11);
+    .setView([45.51, -122.7], 12);
 	var featureLayer = L.mapbox.featureLayer()
 	    .loadURL('http://poetrybox.info/poetry-boxes150301.geojson')
+		.on('ready', function(layer) {
+			this.eachLayer(function(marker) {
+				// adapted from: 
+				// https://www.mapbox.com/mapbox.js/example/v1.0.0/markers-from-csv-custom-style/
+				marker.setIcon(L.mapbox.marker.icon({
+					'marker-color': '#9c713d',
+					'marker-size': 'medium',
+					'marker-symbol': 'building'
+				}));
+			});
+		})
 	    .addTo(map);
 </script>
 
