@@ -1,0 +1,4839 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.587514, 
+                    45.510209
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "151f4bd5166d35ac0dec953d2d0006a6", 
+                "title": "7320 SE Mill St", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2012-03-11T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-23T22:39:07", 
+                "addr1": "7320 SE Mill St", 
+                "postalCode": "97215", 
+                "submittedByName": "Anne Weiss", 
+                "description": "Last updated: 2012-07-23T22:39:07"
+            }, 
+            "id": "151f4bd5166d35ac0dec953d2d0006a6"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.58251, 
+                    45.524207
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "151f4bd5166d35ac0dec953d2d0013b8", 
+                "title": "215 NE 79th Avenue", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-23T22:39:07", 
+                "addr1": "215 NE 79th Avenue", 
+                "postalCode": "97213", 
+                "submittedByName": "Kristi Koebke Williams", 
+                "description": "Last updated: 2012-07-23T22:39:07"
+            }, 
+            "id": "151f4bd5166d35ac0dec953d2d0013b8"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.620877, 
+                    45.538717
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Tony Pfannenstiel", 
+                "city": "Portland", 
+                "uuid": "151f4bd5166d35ac0dec953d2d001a32", 
+                "title": "2224 NE 41st", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-21T09:39:07", 
+                "addr1": "2224 NE 41st", 
+                "postalCode": "97212", 
+                "photoName": "2224-ne-41st.jpg", 
+                "submittedByName": "Tony Pfannenstiel", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "151f4bd5166d35ac0dec953d2d001a32"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.584478, 
+                    45.552503
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Anna Herbert", 
+                "city": "Portland", 
+                "uuid": "151f4bd5166d35ac0dec953d2d00219f", 
+                "title": "7611 NE Mason St", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2011-09-11T09:39:07", 
+                "owner": "Anna Herbert", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-23T23:39:07", 
+                "addr1": "7611 NE Mason St", 
+                "postalCode": "97218", 
+                "photoName": "7611-ne-mason-st.jpg", 
+                "submittedByName": "Bill Herbert", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "151f4bd5166d35ac0dec953d2d00219f"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.735766, 
+                    45.51026
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "John Milliken", 
+                "city": "Portland", 
+                "uuid": "1b7a80dd774cff20e2ef79f115001395", 
+                "title": "5539 SW Westgate Dr", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2011-06-23T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-22T00:39:07", 
+                "addr1": "5539 SW Westgate Dr", 
+                "postalCode": "97221", 
+                "photoName": "5539-sw-westgate-dr.jpg", 
+                "submittedByName": "", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "1b7a80dd774cff20e2ef79f115001395"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.730401, 
+                    45.587454
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Matt Blair", 
+                "city": "Portland", 
+                "uuid": "220a69d0bed955d20adfa6eda20009d0", 
+                "title": "8971 N Fortune Ave", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2012-10-20T15:47:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-10-14T22:39:07", 
+                "addr1": "8971 N Fortune Ave", 
+                "postalCode": "97203", 
+                "photoName": "8971-n-fortune-ave.jpg", 
+                "submittedByName": "Beth White", 
+                "description": "Last updated: 2012-10-14T22:39:07"
+            }, 
+            "id": "220a69d0bed955d20adfa6eda20009d0"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.65094, 
+                    45.409438
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa0006c8", 
+                "title": "1131 River Forest Rd", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "1131 River Forest Rd", 
+                "postalCode": "97267", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa0006c8"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.51531, 
+                    45.550874
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa0008c0", 
+                "title": "14302 NE Failing", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "14302 NE Failing", 
+                "postalCode": "97230", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa0008c0"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6491476, 
+                    45.5403755
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa0012df", 
+                "title": "1610 NE Brazee", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "1610 NE Brazee", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa0012df"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.630266, 
+                    45.511079
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa00146d", 
+                "title": "1618 SE 33rd", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "1618 SE 33rd", 
+                "postalCode": "97214", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa00146d"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6159809, 
+                    45.5107686
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "David Cooke", 
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa001d98", 
+                "title": "1630 SE 45th Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "1630 SE 45th Ave", 
+                "postalCode": "97215", 
+                "photoName": "1630-se-45th-ave.jpg", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa001d98"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -123.857572, 
+                    45.647206
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Nehalem", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa001f29", 
+                "title": "16702 West Point Dr", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "16702 West Point Dr", 
+                "postalCode": "97131", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa001f29"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.860879, 
+                    45.546788
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa0021ff", 
+                "title": "17794 NW Country Drive", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "17794 NW Country Drive", 
+                "postalCode": "97229", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa0021ff"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.2795667, 
+                    37.8983665
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Berkley", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa002bb6", 
+                "title": "1891 Solano Rd", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "CA", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "1891 Solano Rd", 
+                "postalCode": "94707", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa002bb6"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.640425, 
+                    45.53686
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "David Cooke", 
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa003a85", 
+                "title": "1925 NE 25th", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "1925 NE 25th", 
+                "postalCode": "97212", 
+                "photoName": "1925-ne-25th.jpg", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa003a85"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.609247, 
+                    45.509125
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "David Cooke", 
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa0044cf", 
+                "title": "1925 SE 52nd", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "1925 SE 52nd", 
+                "postalCode": "97215", 
+                "photoName": "1925-se-52nd.jpg", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa0044cf"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6455308, 
+                    45.5506697
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa00509f", 
+                "title": "1932 NE Ridgewood Dr", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "1932 NE Ridgewood Dr", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa00509f"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.703383, 
+                    45.378059
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "West Linn", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa005f2f", 
+                "title": "19875 Stafford Road", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "19875 Stafford Road", 
+                "postalCode": "97068", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa005f2f"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.650132, 
+                    45.5068569
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa006840", 
+                "title": "2133 SE Orange", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "2133 SE Orange", 
+                "postalCode": "97214", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa006840"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.582488, 
+                    45.524209
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa006ffe", 
+                "title": "215 NE 79th", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "215 NE 79th", 
+                "postalCode": "97213", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa006ffe"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.690533, 
+                    45.555271
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa007894", 
+                "title": "2215 N Skidmore Ct", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "2215 N Skidmore Ct", 
+                "postalCode": "97217", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa007894"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.641028, 
+                    45.532653
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "David Cooke", 
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa007dcd", 
+                "title": "2404 NE Clackamas", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-10-24T22:39:07", 
+                "addr1": "2404 NE Clackamas", 
+                "postalCode": "97232", 
+                "photoName": "2404-ne-clackamas.jpg", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa007dcd"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.646003, 
+                    45.53981
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa00865a", 
+                "title": "2406 NE 19th", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "2406 NE 19th", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa00865a"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.641005, 
+                    45.503167
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa009209", 
+                "title": "2422 SE Clinton St", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "2422 SE Clinton St", 
+                "postalCode": "97202", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa009209"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.632644, 
+                    45.5403986
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa0093c4", 
+                "title": "2517 NE 32nd Ct", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "2517 NE 32nd Ct", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa0093c4"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.64042, 
+                    45.540935
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa009b91", 
+                "title": "2523 NE 25th Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "2523 NE 25th Ave", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa009b91"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.635135, 
+                    45.540501
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa00a33b", 
+                "title": "2524 NE 30th Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "2524 NE 30th Ave", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa00a33b"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.632981, 
+                    45.540683
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa00a68b", 
+                "title": "2538 NE 32nd Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "2538 NE 32nd Ave", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa00a68b"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.634712, 
+                    45.541339
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa00b523", 
+                "title": "2606 NE 30th Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "2606 NE 30th Ave", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa00b523"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6399236, 
+                    45.5503964
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa00c28b", 
+                "title": "2628 NE Stewart Drive", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "2628 NE Stewart Drive", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa00c28b"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.638848, 
+                    45.507259
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa00c63b", 
+                "title": "2631 SE Grant St", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "2631 SE Grant St", 
+                "postalCode": "97214", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa00c63b"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6369571, 
+                    45.5426735
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa00daff", 
+                "title": "2738 NE 28th", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "2738 NE 28th", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa00daff"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.623665, 
+                    45.543088
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa00e34f", 
+                "title": "2816 NE 38th", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "2816 NE 38th", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa00e34f"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -116.9393159, 
+                    47.7345566
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Post Falls", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa00f278", 
+                "title": "2900 Sandtrap Way", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "ID", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "2900 Sandtrap Way", 
+                "postalCode": "83854", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa00f278"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.634042, 
+                    45.544271
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa00f2dc", 
+                "title": "2943 NE 31st Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "2943 NE 31st Ave", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa00f2dc"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.611997, 
+                    45.5447119
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa00f701", 
+                "title": "3003 NE 50th Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "3003 NE 50th Ave", 
+                "postalCode": "97213", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa00f701"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.614417, 
+                    45.544688
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa00f9cf", 
+                "title": "3004 NE 47th, ", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "3004 NE 47th, ", 
+                "postalCode": "97213", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa00f9cf"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.633267, 
+                    45.528386
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa010968", 
+                "title": "3056 NE Oregon St", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "3056 NE Oregon St", 
+                "postalCode": "97232", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa010968"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.633519, 
+                    45.546937
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "David Cooke", 
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa010d3a", 
+                "title": "3107 NE Klickitat", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "3107 NE Klickitat", 
+                "postalCode": "97212", 
+                "photoName": "3107-ne-klickitat.jpg", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa010d3a"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.713863, 
+                    45.524243
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa011d2e", 
+                "title": "3111 NW Verde Vista Terrace", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "3111 NW Verde Vista Terrace", 
+                "postalCode": "97210", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa011d2e"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.631392, 
+                    45.545847
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa012c06", 
+                "title": "3134 NE 32nd Place", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "3134 NE 32nd Place", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa012c06"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.631876, 
+                    45.541792
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa012c41", 
+                "title": "3232 NE Knott", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "3232 NE Knott", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa012c41"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.608487, 
+                    45.5202529
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa012ebd", 
+                "title": "326 SE 53rd", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "326 SE 53rd", 
+                "postalCode": "97215", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa012ebd"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6309615, 
+                    45.568103
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa013258", 
+                "title": "3286  NE Holman", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "3286  NE Holman", 
+                "postalCode": "97211", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa013258"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.639782, 
+                    45.547264
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "David Cooke", 
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa013a9e", 
+                "title": "3334 NE 25th Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "3334 NE 25th Ave", 
+                "postalCode": "97212", 
+                "photoName": "3334-ne-25th-ave.jpg", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa013a9e"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6815431, 
+                    45.5008701
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa014488", 
+                "title": "338 SW Woods St", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "338 SW Woods St", 
+                "postalCode": "97201", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa014488"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6441859, 
+                    45.5476406
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa01488b", 
+                "title": "3414 NE 21st", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "3414 NE 21st", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa01488b"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.628422, 
+                    45.547777
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa014994", 
+                "title": "3443 NE 35th Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "3443 NE 35th Ave", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa014994"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.637751, 
+                    45.54853
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "David Cooke", 
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa01557e", 
+                "title": "3512 NE 27th Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "3512 NE 27th Ave", 
+                "postalCode": "97212", 
+                "photoName": "3512-ne-27th-ave.jpg", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa01557e"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.626815, 
+                    45.535589
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa016127", 
+                "title": "3560 NE Schuyler", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "3560 NE Schuyler", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa016127"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.626424, 
+                    45.535589
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa016fe9", 
+                "title": "3576 NE Schuyler", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "3576 NE Schuyler", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa016fe9"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.64555, 
+                    45.5499859
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "David Cooke", 
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa01741f", 
+                "title": "3733 NE 20th", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "3733 NE 20th", 
+                "postalCode": "97212", 
+                "photoName": "3733-ne-20th.jpg", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa01741f"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.624974, 
+                    45.515956
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa017ac0", 
+                "title": "3735 SE Yamhill", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "3735 SE Yamhill", 
+                "postalCode": "97214", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa017ac0"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6237911, 
+                    45.5365165
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa017d05", 
+                "title": "3819 NE Hancock", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "3819 NE Hancock", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa017d05"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.622268, 
+                    45.5365143
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa0187de", 
+                "title": "3918 NE Hancock", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "3918 NE Hancock", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa0187de"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.622157, 
+                    45.508561
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa0188c0", 
+                "title": "3924 SE Harrison", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "3924 SE Harrison", 
+                "postalCode": "97214", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa0188c0"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.620005, 
+                    45.515622
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa0192ac", 
+                "title": "4104 SE Yamhill", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "4104 SE Yamhill", 
+                "postalCode": "97214", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa0192ac"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.621238, 
+                    45.56692
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa0196ac", 
+                "title": "4120 NE Ainsworth Ct", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "4120 NE Ainsworth Ct", 
+                "postalCode": "97211", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa0196ac"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.624321, 
+                    45.4914119
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa01974d", 
+                "title": "4316 SE 37th Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "4316 SE 37th Ave", 
+                "postalCode": "97202", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa01974d"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.637606, 
+                    45.554886
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "David Cooke", 
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa0197a7", 
+                "title": "4332 NE 27th Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "4332 NE 27th Ave", 
+                "postalCode": "97211", 
+                "photoName": "4332-ne-27th-ave.jpg", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa0197a7"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.764784, 
+                    45.488349
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa01a24a", 
+                "title": "4380 SW 86th Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "4380 SW 86th Ave", 
+                "postalCode": "97225", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa01a24a"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.575685, 
+                    45.523463
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa01abf3", 
+                "title": "44 NE 85th", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "44 NE 85th", 
+                "postalCode": "97220", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa01abf3"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.709637, 
+                    45.491339
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa01b3ec", 
+                "title": "4405 SW Redondo Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "4405 SW Redondo Ave", 
+                "postalCode": "97239", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa01b3ec"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.616954, 
+                    45.547187
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "David Cooke", 
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa01c2c0", 
+                "title": "4435 NE Klickitat", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "4435 NE Klickitat", 
+                "postalCode": "97213", 
+                "photoName": "4435-ne-klickitat.jpg", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa01c2c0"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -121.994605, 
+                    38.2602199
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Fairfield", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa01ccc9", 
+                "title": "4463 Solano Rd", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "CA", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "4463 Solano Rd", 
+                "postalCode": "94533", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa01ccc9"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.61657, 
+                    45.5540049
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa01d2c4", 
+                "title": "4527 NE Skidmore St", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "4527 NE Skidmore St", 
+                "postalCode": "97218", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa01d2c4"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.616036, 
+                    45.554003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "David Cooke", 
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa01e06e", 
+                "title": "4551 NE Skidmore St", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "4551 NE Skidmore St", 
+                "postalCode": "97218", 
+                "photoName": "4551-ne-skidmore-st.jpg", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa01e06e"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6145653, 
+                    45.5417706
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa01e58b", 
+                "title": "4715 NE Wistaria", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "4715 NE Wistaria", 
+                "postalCode": "97213", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa01e58b"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.614131, 
+                    45.553105
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "David Cooke", 
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa01ffdb", 
+                "title": "4737 NE Mason", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "4737 NE Mason", 
+                "postalCode": "97218", 
+                "photoName": "4737-ne-mason.jpg", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa01ffdb"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6126067, 
+                    45.5238307
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa020c09", 
+                "title": "4911 NE Couch", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "4911 NE Couch", 
+                "postalCode": "97213", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa020c09"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6090512, 
+                    45.5081432
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "David Cooke", 
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa0214f5", 
+                "title": "5145 SE Lincoln Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "5145 SE Lincoln Ave", 
+                "postalCode": "97215", 
+                "photoName": "5145-se-lincoln-ave.jpg", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa0214f5"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.6094208, 
+                    45.5243684
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa0224b5", 
+                "title": "5236 NE  Davis", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "5236 NE  Davis", 
+                "postalCode": "97213", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa0224b5"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.604395, 
+                    45.495002
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa022f87", 
+                "title": "5701 SE Francis", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "5701 SE Francis", 
+                "postalCode": "97206", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa022f87"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.603007, 
+                    45.516314
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa023764", 
+                "title": "5857 SE Yamhill", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "5857 SE Yamhill", 
+                "postalCode": "97215", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa023764"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.600702, 
+                    45.549872
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "David Cooke", 
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa023e96", 
+                "title": "6105 NE Beech", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "6105 NE Beech", 
+                "postalCode": "97213", 
+                "photoName": "6105-ne-beech.jpg", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa023e96"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.599189, 
+                    45.550578
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "David Cooke", 
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa024c86", 
+                "title": "6207 NE Alton", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "6207 NE Alton", 
+                "postalCode": "97213", 
+                "photoName": "6207-ne-alton.jpg", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa024c86"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.693226, 
+                    45.567753
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa025443", 
+                "title": "6216 N Wilbur", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "6216 N Wilbur", 
+                "postalCode": "97217", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa025443"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.599795, 
+                    45.5168883
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa025a55", 
+                "title": "6225 SE Belmont", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "6225 SE Belmont", 
+                "postalCode": "97215", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa025a55"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.60923, 
+                    45.518163
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "David Cooke", 
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa026330", 
+                "title": "627 Se 53rd", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "627 Se 53rd", 
+                "postalCode": "97215", 
+                "photoName": "627-se-53rd.jpg", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa026330"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.5978896, 
+                    45.5229802
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa02670b", 
+                "title": "6404 SE Burnside", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "6404 SE Burnside", 
+                "postalCode": "97213", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa02670b"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.684978, 
+                    45.570392
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa0272d5", 
+                "title": "6524 N Fenwick", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "6524 N Fenwick", 
+                "postalCode": "97217", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa0272d5"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.646694, 
+                    45.475951
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa0279f4", 
+                "title": "6526 SE 18th", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "6526 SE 18th", 
+                "postalCode": "97202", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa0279f4"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.684551, 
+                    45.574217
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa028410", 
+                "title": "7045 N Concord", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "7045 N Concord", 
+                "postalCode": "97217", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa028410"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.618452, 
+                    45.523938
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa02893c", 
+                "title": "73 NE 43rd Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "73 NE 43rd Ave", 
+                "postalCode": "97213", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa02893c"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.586899, 
+                    45.5071547
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa029476", 
+                "title": "7421 SE Grant", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "7421 SE Grant", 
+                "postalCode": "97206", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa029476"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.672504, 
+                    45.417282
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Lake Oswego", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa02a14a", 
+                "title": "752 Lake Forest Dr", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "752 Lake Forest Dr", 
+                "postalCode": "97034", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa02a14a"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.5845009, 
+                    45.5525659
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa02a196", 
+                "title": "7611 NE Mason St", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "7611 NE Mason St", 
+                "postalCode": "97218", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa02a196"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.720682, 
+                    45.582474
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa02a641", 
+                "title": "7716 N Hodge", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "7716 N Hodge", 
+                "postalCode": "97203", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa02a641"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.627933, 
+                    45.46699
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa02a8e2", 
+                "title": "7824 SE 34th", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "7824 SE 34th", 
+                "postalCode": "97202", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa02a8e2"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.703945, 
+                    45.4676339
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa02b5c3", 
+                "title": "7846 SW 27th ", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "7846 SW 27th ", 
+                "postalCode": "97219", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa02b5c3"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.655301, 
+                    45.462039
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa02cf9c", 
+                "title": "8403 SE 11th", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "8403 SE 11th", 
+                "postalCode": "97202", 
+                "submittedByName": "Edith Mirante", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa02cf9c"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.764002, 
+                    45.5239509
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa02dc37", 
+                "title": "8419 NW Copeland", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "8419 NW Copeland", 
+                "postalCode": "97229", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa02dc37"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.764817, 
+                    45.493344
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa02e627", 
+                "title": "8560 SW Fairway Dr", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "8560 SW Fairway Dr", 
+                "postalCode": "97225", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa02e627"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.7679141, 
+                    45.5088027
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa02eac0", 
+                "title": "8825 SW Barnes Rd", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "8825 SW Barnes Rd", 
+                "postalCode": "97225", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa02eac0"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.656222, 
+                    45.5422867
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa02ef14", 
+                "title": "911 NE Knott", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "911 NE Knott", 
+                "postalCode": "97212", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa02ef14"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.705972, 
+                    45.45829
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa02f462", 
+                "title": "9223 SW 28th Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "9223 SW 28th Ave", 
+                "postalCode": "97219", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa02f462"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.678577, 
+                    45.458214
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa02ff31", 
+                "title": "9254 SW Brier Place", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "9254 SW Brier Place", 
+                "postalCode": "97219", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa02ff31"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.776638, 
+                    45.502533
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa030e1f", 
+                "title": "9730 SW Imperial Dr", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T15:39:07", 
+                "addr1": "9730 SW Imperial Dr", 
+                "postalCode": "97225", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa030e1f"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.62496, 
+                    45.49974
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Steve Sharp", 
+                "city": "Portland", 
+                "uuid": "30fbb14aabce0ece500e6d5bfa031c96", 
+                "title": "3710 SE Kelly Street", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-29T11:49:07", 
+                "addr1": "3710 SE Kelly Street", 
+                "postalCode": "97202", 
+                "photoName": "3710-se-kelly-street-3x4.jpg", 
+                "submittedByName": "Steve Sharp", 
+                "description": "Last updated: 2012-07-29T11:49:07"
+            }, 
+            "id": "30fbb14aabce0ece500e6d5bfa031c96"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.610332, 
+                    45.365077
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Doug Erickson", 
+                "city": "West Linn", 
+                "uuid": "3ff3d1b560bf4ea739f4db5f8a000cb5", 
+                "title": "1542 Holly St", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-22T08:39:07", 
+                "addr1": "1542 Holly St", 
+                "postalCode": "97068", 
+                "photoName": "1542-holly-st.jpg", 
+                "submittedByName": "Doug Erickson", 
+                "description": "Last updated: 2012-07-22T08:39:07"
+            }, 
+            "id": "3ff3d1b560bf4ea739f4db5f8a000cb5"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.613863, 
+                    45.520338
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Martin Stabler", 
+                "city": "Portland", 
+                "uuid": "3ff3d1b560bf4ea739f4db5f8a0010e9", 
+                "title": "350 SE 48th Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2011-11-14T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-22T08:59:07", 
+                "addr1": "350 SE 48th Ave", 
+                "postalCode": "97215", 
+                "photoName": "350-se-48th-ave.jpg", 
+                "submittedByName": "Martin Stabler", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "3ff3d1b560bf4ea739f4db5f8a0010e9"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.635512, 
+                    45.525863
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "6e58063a2f0bca15a967d9afa200078b", 
+                "title": "2915 NE Flanders St", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-08-15T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-08-17T09:39:07", 
+                "addr1": "2915 NE Flanders St", 
+                "postalCode": "97232", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "6e58063a2f0bca15a967d9afa200078b"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.610561, 
+                    45.545966
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "6e58063a2f0bca15a967d9afa20007aa", 
+                "title": "3132 NE 51st", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-08-15T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-08-17T09:39:07", 
+                "addr1": "3132 NE 51st", 
+                "postalCode": "97213", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "6e58063a2f0bca15a967d9afa20007aa"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.589785, 
+                    45.515514
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "David Cooke", 
+                "city": "Milwaukie", 
+                "uuid": "7e3728611ed332ded291490935000601", 
+                "title": "11322 SE 45th Avenue", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2012-09-27T18:47:07", 
+                "owner": "John Sibley Williams", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-10-11T21:39:07", 
+                "addr1": "11322 SE 45th Avenue", 
+                "postalCode": "97222", 
+                "photoName": "11322-se-45th-avenue.jpg", 
+                "submittedByName": "David Cooke", 
+                "description": "Last updated: 2012-10-11T21:39:07"
+            }, 
+            "id": "7e3728611ed332ded291490935000601"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.656881, 
+                    45.459232
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Edith Mirante", 
+                "city": "Portland", 
+                "uuid": "9266c256200b1f7fe0888f0ca7000032", 
+                "title": "8824 SE 9th Ave", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2012-07-26T09:39:07", 
+                "owner": "Edith Mirante", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T09:39:07", 
+                "addr1": "8824 SE 9th Ave", 
+                "postalCode": "97202", 
+                "photoName": "8824-se-9th-ave.jpg", 
+                "submittedByName": "Edith Mirante", 
+                "description": "Last updated: 2012-07-28T09:39:07"
+            }, 
+            "id": "9266c256200b1f7fe0888f0ca7000032"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.629871, 
+                    45.513542
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "9266c256200b1f7fe0888f0ca700075e", 
+                "title": "3350 SE Main St", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2012-07-24T09:39:07", 
+                "owner": "Kristi Koebke Williams", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T09:39:07", 
+                "addr1": "3350 SE Main St", 
+                "postalCode": "97214", 
+                "submittedByName": "Kristi Koebke Williams", 
+                "description": "Last updated: 2012-07-28T09:39:07"
+            }, 
+            "id": "9266c256200b1f7fe0888f0ca700075e"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.728468, 
+                    45.4887
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "9266c256200b1f7fe0888f0ca7001575", 
+                "title": "4731 SW 50th Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T09:39:07", 
+                "addr1": "4731 SW 50th Ave", 
+                "postalCode": "97221", 
+                "submittedByName": "Jenna Barnett", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "9266c256200b1f7fe0888f0ca7001575"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.589785, 
+                    45.515514
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Spencer Snow", 
+                "city": "Portland", 
+                "uuid": "9266c256200b1f7fe0888f0ca7001e27", 
+                "title": "6300 block of SW Flower St", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2011-08-01T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T09:39:07", 
+                "addr1": "6300 block of SW Flower St", 
+                "postalCode": "97221", 
+                "photoName": "6300-sw-flower-st.jpg", 
+                "submittedByName": "Spencer Snow", 
+                "description": "Last updated: 2012-07-28T09:39:07"
+            }, 
+            "id": "9266c256200b1f7fe0888f0ca7001e27"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.64356, 
+                    45.567522
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Nancy Flynn", 
+                "city": "Portland", 
+                "uuid": "9266c256200b1f7fe0888f0ca700265a", 
+                "title": "6201 NE 22nd", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2011-10-26T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T09:39:07", 
+                "addr1": "6201 NE 22nd", 
+                "postalCode": "97211", 
+                "photoName": "6201-ne-22nd.jpg", 
+                "submittedByName": "Nancy Flynn", 
+                "description": "Last updated: 2012-07-28T09:39:07"
+            }, 
+            "id": "9266c256200b1f7fe0888f0ca700265a"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.710225, 
+                    45.463358
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Peter McMinn", 
+                "city": "Portland", 
+                "uuid": "9266c256200b1f7fe0888f0ca70027cd", 
+                "title": "3220 SW Spring Garden Street", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T09:39:07", 
+                "addr1": "3220 SW Spring Garden Street", 
+                "postalCode": "97219", 
+                "photoName": "3220-sw-spring-garden-street.jpg", 
+                "submittedByName": "Peter McMinn", 
+                "description": "Last updated: 2012-07-28T09:39:07"
+            }, 
+            "id": "9266c256200b1f7fe0888f0ca70027cd"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.675515, 
+                    45.475113
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "9266c256200b1f7fe0888f0ca7002fca", 
+                "title": "0315 SW Florida Street", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2012-07-25T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-28T09:39:07", 
+                "addr1": "0315 SW Florida Street", 
+                "postalCode": "97219", 
+                "submittedByName": "Jim Fairchild", 
+                "description": "Last updated: 2012-07-28T09:39:07"
+            }, 
+            "id": "9266c256200b1f7fe0888f0ca7002fca"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68115, 
+                    45.470306
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "9266c256200b1f7fe0888f0ca7003be0", 
+                "title": "Garden Plot A-19", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2012-07-25T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "Fulton Park", 
+                "modifiedDate": "2012-08-17T09:39:07", 
+                "addr1": "Garden Plot A-19", 
+                "postalCode": "97219", 
+                "submittedByName": "Jim Fairchild", 
+                "description": "Last updated: 2012-08-17T09:39:07"
+            }, 
+            "id": "9266c256200b1f7fe0888f0ca7003be0"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.644307, 
+                    45.504745
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "a1f8e97478e13600ed28080ace00042b", 
+                "title": "2106 SE Division St", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2012-10-15T18:27:07", 
+                "owner": "Mirador Community Store", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-10-18T22:39:07", 
+                "addr1": "2106 SE Division St", 
+                "postalCode": "97202", 
+                "submittedByName": "Lynn Hanrahan", 
+                "description": "Last updated: 2012-10-18T22:39:07"
+            }, 
+            "id": "a1f8e97478e13600ed28080ace00042b"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.684114, 
+                    45.567476
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Colleen McClain", 
+                "city": "Portland", 
+                "uuid": "a1f8e97478e13600ed28080ace001277", 
+                "title": "6119 N Concord Avenue", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2012-10-15T15:47:07", 
+                "owner": "Colleen McClain and Don Riggs", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-10-11T21:39:07", 
+                "addr1": "6119 N Concord Avenue", 
+                "postalCode": "97217", 
+                "photoName": "6119-n-concord-ave.jpg", 
+                "submittedByName": "Colleen McClain", 
+                "description": "Last updated: 2012-10-11T21:39:07"
+            }, 
+            "id": "a1f8e97478e13600ed28080ace001277"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.612981, 
+                    45.499558
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "a88c2bc6514db0286628a7df94000c74", 
+                "title": "4828 SE Kelly", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-10-21T18:47:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-10-07T21:39:07", 
+                "addr1": "4828 SE Kelly", 
+                "postalCode": "97206", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "a88c2bc6514db0286628a7df94000c74"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.650859, 
+                    45.467716
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "a88c2bc6514db0286628a7df94001bb9", 
+                "title": "7856 SE 15th Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-10-21T18:47:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-10-07T21:39:07", 
+                "addr1": "7856 SE 15th Ave", 
+                "postalCode": "97202", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "a88c2bc6514db0286628a7df94001bb9"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.67303, 
+                    45.556602
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "a88c2bc6514db0286628a7df9400224a", 
+                "title": "4621 N Kerby Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2012-10-21T18:47:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-10-07T21:39:07", 
+                "addr1": "4621 N Kerby Ave", 
+                "postalCode": "97217", 
+                "submittedByName": "Doug Trotter", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "a88c2bc6514db0286628a7df9400224a"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.594358, 
+                    45.550633
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "a88c2bc6514db0286628a7df94002efb", 
+                "title": "3819 NE 67th Ave", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2012-10-21T18:47:07", 
+                "owner": "Nancy Clarke", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-10-07T21:39:07", 
+                "addr1": "3819 NE 67th Ave", 
+                "postalCode": "97213", 
+                "submittedByName": "Nancy Clarke", 
+                "description": "Last updated: 2012-10-07T21:39:07"
+            }, 
+            "id": "a88c2bc6514db0286628a7df94002efb"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.684837, 
+                    45.554928
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "The Jones Family", 
+                "city": "Portland", 
+                "uuid": "af4a019257cc8007bff5cbb757000aba", 
+                "title": "4378 North Concord Avenue", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2012-07-12T09:39:07", 
+                "owner": "The Jones Family", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-2T00:19:07", 
+                "addr1": "4378 North Concord Avenue", 
+                "postalCode": "97217", 
+                "photoName": "4378-north-concord-avenue.jpg", 
+                "submittedByName": "Tonya Jones", 
+                "description": "Last updated: 2012-07-2T00:19:07"
+            }, 
+            "id": "af4a019257cc8007bff5cbb757000aba"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.751743, 
+                    45.59427
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Noraleigh Carthy", 
+                "city": "Portland", 
+                "uuid": "af4a019257cc8007bff5cbb75700218d", 
+                "title": "8920 N Smith Street", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2012-07-21T09:39:07", 
+                "owner": "Noraleigh Carthy", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-21T09:39:07", 
+                "addr1": "8920 N Smith Street", 
+                "postalCode": "97203", 
+                "photoName": "8920-n-smith-street.jpg", 
+                "submittedByName": "Noraleigh Carthy", 
+                "description": "Last updated: 2012-07-21T09:39:07"
+            }, 
+            "id": "af4a019257cc8007bff5cbb75700218d"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.60136, 
+                    45.493755
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Tara Taylor", 
+                "city": "Portland", 
+                "uuid": "af4a019257cc8007bff5cbb757002ab2", 
+                "title": "6006 SE Center St", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2012-05-20T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-21T09:39:07", 
+                "addr1": "6006 SE Center St", 
+                "postalCode": "97206", 
+                "photoName": "6006-se-center-st.jpg", 
+                "submittedByName": "Tara Taylor", 
+                "description": "Last updated: 2012-07-21T09:39:07"
+            }, 
+            "id": "af4a019257cc8007bff5cbb757002ab2"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.634461, 
+                    45.513532
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Johnny Stallings & Nancy Scharbach", 
+                "city": "Portland", 
+                "uuid": "af4a019257cc8007bff5cbb75700439a", 
+                "title": "3010 SE Main St", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2012-04-14T09:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-21T09:39:07", 
+                "addr1": "3010 SE Main St", 
+                "postalCode": "97214", 
+                "photoName": "3010-se-main-street.jpg", 
+                "submittedByName": "Johnny Stallings & Nancy Scharbach", 
+                "description": "Last updated: 2012-07-21T09:39:07"
+            }, 
+            "id": "af4a019257cc8007bff5cbb75700439a"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.628237, 
+                    45.484815
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Matt Blair", 
+                "city": "Portland", 
+                "uuid": "af4a019257cc8007bff5cbb757005859", 
+                "title": "3415 SE Steele", 
+                "country": "USA", 
+                "builder": "", 
+                "submittedDate": "2012-04-05T17:39:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-07-21T21:39:07", 
+                "addr1": "3415 SE Steele", 
+                "postalCode": "97202", 
+                "photoName": "3415-se-steele.jpg", 
+                "submittedByName": "Matt Blair", 
+                "description": "Last updated: 2012-07-21T21:39:07"
+            }, 
+            "id": "af4a019257cc8007bff5cbb757005859"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.566955, 
+                    45.520969
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Autumn Jim Myers", 
+                "city": "Portland", 
+                "uuid": "b3ff068e8901afb8353d75ac56000d0b", 
+                "title": "205 SE 94th", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2011-07-06T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2011-07-18T22:11:40", 
+                "addr1": "205 SE 94th", 
+                "postalCode": "97216", 
+                "photoName": "205-se-94th-cropped.jpg", 
+                "submittedByName": "Autumn Jim Myers", 
+                "description": "Last updated: 2011-07-18T22:11:40"
+            }, 
+            "id": "b3ff068e8901afb8353d75ac56000d0b"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.623821, 
+                    45.540782
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4bbd50", 
+                "title": "2530 NE 38th", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2010-09-08T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-09-08T11:24:40", 
+                "addr1": "2530 NE 38th", 
+                "postalCode": "97212", 
+                "submittedByName": "Sue Gemmell", 
+                "description": "Last updated: 2010-09-08T11:24:40"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4bbd50"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.623086, 
+                    45.540116
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4bc634", 
+                "title": "2443 NE 38th", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2010-09-08T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-09-08T11:24:40", 
+                "addr1": "2443 NE 38th", 
+                "postalCode": "97212", 
+                "submittedByName": "Sue Gemmell", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4bc634"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.623419, 
+                    45.544615
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Laura O. Foster", 
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4bcc26", 
+                "title": "3821 NE Wistaria Drive", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2010-09-08T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-09-08T11:24:40", 
+                "addr1": "3821 NE Wistaria Drive", 
+                "postalCode": "97212", 
+                "photoName": "3821-ne-wistaria-drive.jpg", 
+                "submittedByName": "Sue Gemmell", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4bcc26"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.653184, 
+                    45.47645
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "David Cooke", 
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4bdaac", 
+                "title": "1200 SE Henry", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2010-09-08T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-10-24T22:44:40", 
+                "addr1": "1200 SE Henry", 
+                "postalCode": "97202", 
+                "photoName": "1200-se-henry.jpg", 
+                "submittedByName": "Matt Blair", 
+                "description": "Last updated: 2012-10-24T22:44:40"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4bdaac"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.644471, 
+                    45.478901
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4be244", 
+                "title": "6005 SE 21st Ave", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2010-09-08T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-09-08T11:24:40", 
+                "addr1": "6005 SE 21st Ave", 
+                "postalCode": "97202-5357", 
+                "submittedByName": "Matt Blair", 
+                "description": "Last updated: 2010-09-08T11:24:40"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4be244"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.618804, 
+                    45.557532
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "David Cooke", 
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4bec2e", 
+                "title": "4315 NE Wygant", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2010-09-08T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2012-10-24T11:24:40", 
+                "addr1": "4315 NE Wygant", 
+                "postalCode": "97218", 
+                "photoName": "4315-ne-wygant.jpg", 
+                "submittedByName": "David Cooke", 
+                "description": "Last updated: 2012-10-24T11:24:40"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4bec2e"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.676421, 
+                    45.468641
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4bfbec", 
+                "title": "9518 SW Corbett Ave", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2010-09-08T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-09-08T11:24:40", 
+                "addr1": "9518 SW Corbett Ave", 
+                "postalCode": "97219", 
+                "submittedByName": "John Miller", 
+                "description": "Last updated: 2010-09-08T11:24:40"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4bfbec"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.625752, 
+                    45.54467
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4bfce7", 
+                "title": "3004 NE 36th", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2010-09-08T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-09-08T11:24:40", 
+                "addr1": "3004 NE 36th", 
+                "postalCode": "97212", 
+                "submittedByName": "Sue Gemmell", 
+                "description": "Last updated: 2010-09-08T11:24:40"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4bfce7"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.626192, 
+                    45.546639
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Laura O. Foster", 
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c05a0", 
+                "title": "3611 NE Klickitat", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2010-09-08T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-09-08T11:24:40", 
+                "addr1": "3611 NE Klickitat", 
+                "postalCode": "97212", 
+                "photoName": "3611-ne-klickitat.jpg", 
+                "submittedByName": "Sue Gemmell", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c05a0"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.625988, 
+                    45.544695
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Sue Gemmell", 
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c0fd2", 
+                "title": "3004 NE 36th", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2010-09-08T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-09-08T11:24:40", 
+                "addr1": "3004 NE 36th", 
+                "postalCode": "97212", 
+                "photoName": "3004-ne-36-corner.jpg", 
+                "submittedByName": "Sue Gemmell", 
+                "description": "Last updated: 2010-09-08T11:24:40"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c0fd2"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.694847, 
+                    45.516184
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Matt Blair", 
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c118c", 
+                "title": "1991 SW Mill St Terrace", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2010-09-09T23:00:43", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-09-09T23:00:43", 
+                "addr1": "1991 SW Mill St Terrace", 
+                "postalCode": "97201", 
+                "photoName": "1991-SW-Mill-St-Terrace.jpg", 
+                "submittedByName": "Tony Pfannenstiel", 
+                "description": "Last updated: 2010-09-09T23:00:43"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c118c"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.607456, 
+                    45.506602
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "John Milliken", 
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c1d4b", 
+                "title": "5326 SE Sherman St", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:38:14", 
+                "addr1": "5326 SE Sherman St", 
+                "postalCode": "97215", 
+                "photoName": "5326-se-sherman.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c1d4b"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.644097, 
+                    45.508473
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Sue Gemmell", 
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c22e2", 
+                "title": "2006 SE 21st Ave", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:38:04", 
+                "addr1": "2006 SE 21st Ave", 
+                "postalCode": "97214", 
+                "photoName": "3004-ne-morris-side.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c22e2"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.590028, 
+                    45.527814
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c2e13", 
+                "title": "7066 NE Irving St", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:37:50", 
+                "addr1": "7066 NE Irving St", 
+                "postalCode": "97213", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c2e13"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.625904, 
+                    45.536993
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Laura O. Foster", 
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c34ca", 
+                "title": "1924 NE 36th Ave", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:37:41", 
+                "addr1": "1924 NE 36th Ave", 
+                "postalCode": "97212", 
+                "photoName": "1924NE36th-lf.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c34ca"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.627708, 
+                    45.541398
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "John Milliken", 
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c421d", 
+                "title": "2525 NE 35th Place", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:37:31", 
+                "addr1": "2525 NE 35th Place", 
+                "postalCode": "97212", 
+                "photoName": "2525-ne35th-ave.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c421d"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.64329, 
+                    45.538275
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "John Milliken", 
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c4e00", 
+                "title": "2207 NE 22nd Ave", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:37:11", 
+                "addr1": "2207 NE 22nd Ave", 
+                "postalCode": "97212", 
+                "photoName": "2207-ne-22nd.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c4e00"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.644117, 
+                    45.538257
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "John Milliken", 
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c51f8", 
+                "title": "2204 NE 21st Ave", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:37:02", 
+                "addr1": "2204 NE 21st Ave", 
+                "postalCode": "97212", 
+                "photoName": "2204-ne-21st.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c51f8"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.645157, 
+                    45.539705
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "John Milliken", 
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c51fd", 
+                "title": "2404 NE 20th Ave", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:36:46", 
+                "addr1": "2404 NE 20th Ave", 
+                "postalCode": "97212", 
+                "photoName": "2404-ne-20th.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c51fd"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.65261, 
+                    45.543739
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "John Milliken", 
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c56ed", 
+                "title": "1231 NE Stanton St", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:36:28", 
+                "addr1": "1231 NE Stanton St", 
+                "postalCode": "97212", 
+                "photoName": "1231-ne-stanton.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c56ed"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.654763, 
+                    45.543719
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c6627", 
+                "title": "2907 NE 11th Ave", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:36:11", 
+                "addr1": "2907 NE 11th Ave", 
+                "postalCode": "97212", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c6627"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.698005, 
+                    45.529169
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Matt Blair", 
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c6706", 
+                "title": "2265 NW Kearney", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:35:58", 
+                "addr1": "2265 NW Kearney", 
+                "postalCode": "97210", 
+                "photoName": "2265nw-kearney.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c6706"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.650017, 
+                    45.398
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "John Milliken", 
+                "city": "West Linn", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c6f64", 
+                "title": "Highway 43", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:40:03", 
+                "addr1": "Highway 43", 
+                "postalCode": "97036", 
+                "photoName": "marylhurst.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c6f64"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.719837, 
+                    45.37583
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Tualatin", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c78a4", 
+                "title": "4201 SW Borland Rd", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:39:55", 
+                "addr1": "4201 SW Borland Rd", 
+                "postalCode": "97062", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c78a4"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.651706, 
+                    45.540437
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "John Milliken", 
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c8681", 
+                "title": "NE 14th and Brazee", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:39:47", 
+                "addr1": "NE 14th and Brazee", 
+                "postalCode": "97212", 
+                "photoName": "irvington-grade-school.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c8681"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.587457, 
+                    45.51378
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c8f7b", 
+                "title": "1240 SE\u00a073rd Ave", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:39:35", 
+                "addr1": "1240 SE\u00a073rd Ave", 
+                "postalCode": "97215", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c8f7b"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.587471, 
+                    45.515542
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c93af", 
+                "title": "1050 SE 73rd Ave", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:39:26", 
+                "addr1": "1050 SE 73rd Ave", 
+                "postalCode": "97215", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c93af"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.587583, 
+                    45.516341
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c976a", 
+                "title": "SE 73rd and Yamhill St", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:39:15", 
+                "addr1": "SE 73rd and Yamhill St", 
+                "postalCode": "97215", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c976a"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.589785, 
+                    45.515514
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c9e22", 
+                "title": "1055 SE 71st Ave", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:39:07", 
+                "addr1": "1055 SE 71st Ave", 
+                "postalCode": "97215", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c9e22"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.593795, 
+                    45.516231
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4c9ed4", 
+                "title": "6715 SE Yamhill St", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:38:56", 
+                "addr1": "6715 SE Yamhill St", 
+                "postalCode": "97215", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4c9ed4"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.591659, 
+                    45.517386
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "John Milliken", 
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4cae5c", 
+                "title": "6922 SE Morrison St", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:38:45", 
+                "addr1": "6922 SE Morrison St", 
+                "postalCode": "97215", 
+                "photoName": "6922-se-morrison.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4cae5c"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.593114, 
+                    45.517262
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "John Milliken", 
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4cbb95", 
+                "title": "808 SE 68th Ave", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:38:35", 
+                "addr1": "808 SE 68th Ave", 
+                "postalCode": "97215", 
+                "photoName": "808-se-68th-ave.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4cbb95"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.604149, 
+                    45.499214
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4cc480", 
+                "title": "3229 SE 57th Ave", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:38:24", 
+                "addr1": "3229 SE 57th Ave", 
+                "postalCode": "97206", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4cc480"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.630117, 
+                    45.547173
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Matt Blair", 
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4cc9fe", 
+                "title": "3401 NE 33rd Place", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2010-09-29T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-16T09:37:21", 
+                "addr1": "3401 NE 33rd Place", 
+                "postalCode": "97212", 
+                "photoName": "3401-ne-33rd-place.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4cc9fe"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.656448, 
+                    45.542173
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "b916e524b2e1f24e72ac7a81aa4ccd7d", 
+                "title": "NE 9th and Knott", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2010-10-27T13:28:07", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-10-27T13:28:07", 
+                "addr1": "NE 9th and Knott", 
+                "postalCode": "97212", 
+                "submittedByName": "John Milliken", 
+                "description": "Last updated: 2010-10-27T13:28:07"
+            }, 
+            "id": "b916e524b2e1f24e72ac7a81aa4ccd7d"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.698434, 
+                    45.528179
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Matt Blair", 
+                "city": "Portland", 
+                "uuid": "bb37047612bb8d04a1423b395300c3e3", 
+                "title": "734 NW 23rd Ave", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2011-02-19T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-02-19T11:38:24", 
+                "addr1": "734 NW 23rd Ave", 
+                "postalCode": "97210", 
+                "photoName": "724-nw-23rd.jpg", 
+                "submittedByName": "Matt Blair", 
+                "description": "Last updated: 2010-02-19T11:38:24"
+            }, 
+            "id": "bb37047612bb8d04a1423b395300c3e3"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.625042, 
+                    45.541297
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Laura O. Foster", 
+                "city": "Portland", 
+                "uuid": "bb37047612bb8d04a1423b395300c5fc", 
+                "title": "2545 NE 37th", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2011-02-19T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-02-19T11:38:24", 
+                "addr1": "2545 NE 37th", 
+                "postalCode": "97212", 
+                "photoName": "2545ne37th.jpg", 
+                "submittedByName": "Laura O. Foster", 
+                "description": "Last updated: 2010-02-19T11:38:24"
+            }, 
+            "id": "bb37047612bb8d04a1423b395300c5fc"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.627989, 
+                    45.53771
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Laura O. Foster", 
+                "city": "Portland", 
+                "uuid": "bb37047612bb8d04a1423b395300ca12", 
+                "title": "3514 NE US Grant Place", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2011-02-19T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-02-19T11:38:24", 
+                "addr1": "3514 NE US Grant Place", 
+                "postalCode": "97212", 
+                "photoName": "3514-ne-us-grant-place.jpg", 
+                "submittedByName": "Laura O. Foster", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "bb37047612bb8d04a1423b395300ca12"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.626808, 
+                    45.541489
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Laura O. Foster", 
+                "city": "Portland", 
+                "uuid": "bb37047612bb8d04a1423b395300cf53", 
+                "title": "3569 NE Hollyrood Court", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2011-02-19T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-02-19T11:38:24", 
+                "addr1": "3569 NE Hollyrood Court", 
+                "postalCode": "97212", 
+                "photoName": "3569-ne-hollyrood-court.jpg", 
+                "submittedByName": "Laura O. Foster", 
+                "description": "Last updated: 2010-02-19T11:38:24"
+            }, 
+            "id": "bb37047612bb8d04a1423b395300cf53"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.629773, 
+                    45.542105
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Sue Gemmell", 
+                "city": "Portland", 
+                "uuid": "bb37047612bb8d04a1423b395300de8b", 
+                "title": "3376 NE Knott", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2011-02-19T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-02-19T11:38:24", 
+                "addr1": "3376 NE Knott", 
+                "postalCode": "97212", 
+                "photoName": "3376-ne-knott.jpg", 
+                "submittedByName": "Sue Gemmell", 
+                "description": "Last updated: 2010-02-19T11:38:24"
+            }, 
+            "id": "bb37047612bb8d04a1423b395300de8b"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.639253, 
+                    45.532924
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "John Milliken", 
+                "city": "Portland", 
+                "uuid": "bb37047612bb8d04a1423b395300e341", 
+                "title": "2581 NE Clackamas St", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2011-02-19T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-02-19T11:38:24", 
+                "addr1": "2581 NE Clackamas St", 
+                "postalCode": "97232", 
+                "photoName": "2581-ne-clackamas.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Last updated: 2010-02-19T11:38:24"
+            }, 
+            "id": "bb37047612bb8d04a1423b395300e341"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.642234, 
+                    45.543496
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "John Milliken", 
+                "city": "Portland", 
+                "uuid": "bb37047612bb8d04a1423b395300ea3d", 
+                "title": "2872 NE 23rd", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2011-02-19T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-02-19T11:38:24", 
+                "addr1": "2872 NE 23rd", 
+                "postalCode": "97212", 
+                "photoName": "2872-ne-23rd.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Last updated: 2010-02-19T11:38:24"
+            }, 
+            "id": "bb37047612bb8d04a1423b395300ea3d"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.602641, 
+                    45.506586
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "John Milliken", 
+                "city": "Portland", 
+                "uuid": "bb37047612bb8d04a1423b395300ee45", 
+                "title": "2306 SE 59th Ave", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2011-02-19T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-02-19T11:38:24", 
+                "addr1": "2306 SE 59th Ave", 
+                "postalCode": "97215", 
+                "photoName": "2306-se-59th.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Last updated: 2010-02-19T11:38:24"
+            }, 
+            "id": "bb37047612bb8d04a1423b395300ee45"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.587478, 
+                    45.516062
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "John Milliken", 
+                "city": "Portland", 
+                "uuid": "bb37047612bb8d04a1423b395300f0c0", 
+                "title": "7304 SE Yamhill St", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2011-02-19T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-02-19T11:38:24", 
+                "addr1": "7304 SE Yamhill St", 
+                "postalCode": "97215", 
+                "photoName": "7304-se-yamhill.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Last updated: 2010-02-19T11:38:24"
+            }, 
+            "id": "bb37047612bb8d04a1423b395300f0c0"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.587665, 
+                    45.513783
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "John Milliken", 
+                "city": "Portland", 
+                "uuid": "bb37047612bb8d04a1423b395300f60b", 
+                "title": "1249 SE 73rd Ave", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2011-02-19T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-02-19T11:38:24", 
+                "addr1": "1249 SE 73rd Ave", 
+                "postalCode": "97215", 
+                "photoName": "1249-se-73rd.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Last updated: 2010-02-19T11:38:24"
+            }, 
+            "id": "bb37047612bb8d04a1423b395300f60b"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.655447, 
+                    45.541107
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "John Milliken", 
+                "city": "Portland", 
+                "uuid": "bb37047612bb8d04a1423b395301055b", 
+                "title": "2536 NE 10th Ave", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2011-02-19T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-02-19T11:38:24", 
+                "addr1": "2536 NE 10th Ave", 
+                "postalCode": "97212", 
+                "photoName": "2536-ne-10th.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Last updated: 2010-02-19T11:38:24"
+            }, 
+            "id": "bb37047612bb8d04a1423b395301055b"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.599485, 
+                    45.522246
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "John Milliken", 
+                "city": "Portland", 
+                "uuid": "bb37047612bb8d04a1423b3953010ae8", 
+                "title": "42 SE 62nd Ave", 
+                "country": "USA", 
+                "builder": "Unknown", 
+                "submittedDate": "2011-02-19T11:24:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-02-19T11:38:24", 
+                "addr1": "42 SE 62nd Ave", 
+                "postalCode": "97215", 
+                "photoName": "42-se-62nd.jpg", 
+                "submittedByName": "John Milliken", 
+                "description": "Last updated: 2010-02-19T11:38:24"
+            }, 
+            "id": "bb37047612bb8d04a1423b3953010ae8"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -118.481323, 
+                    34.00128
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Santa Monica", 
+                "uuid": "bb37047612bb8d04a1423b395301100c", 
+                "title": "2711 2nd St", 
+                "country": "USA", 
+                "builder": "John Milliken", 
+                "submittedDate": "2011-02-19T11:24:40", 
+                "owner": "Unknown", 
+                "state": "CA", 
+                "addr2": "", 
+                "modifiedDate": "2010-02-19T11:38:24", 
+                "addr1": "2711 2nd St", 
+                "postalCode": "90405", 
+                "submittedByName": "John Milliken", 
+                "description": "Built by John Milliken"
+            }, 
+            "id": "bb37047612bb8d04a1423b395301100c"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.68412, 
+                    45.466094
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "city": "Portland", 
+                "uuid": "bb37047612bb8d04a1423b39530110eb", 
+                "title": "8046 SW 6th Ave", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2011-02-22T19:11:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-02-23T11:38:24", 
+                "addr1": "8046 SW 6th Ave", 
+                "postalCode": "97219", 
+                "submittedByName": "Susan Gilpin", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "bb37047612bb8d04a1423b39530110eb"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.815837, 
+                    45.532348
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "photoCredit": "Ross and Nancy Miller", 
+                "city": "Portland", 
+                "uuid": "bb37047612bb8d04a1423b3953011599", 
+                "title": "1725 NW Jenne Avenue", 
+                "country": "USA", 
+                "builder": "Doug Trotter", 
+                "submittedDate": "2011-02-20T12:41:40", 
+                "owner": "Unknown", 
+                "state": "OR", 
+                "addr2": "", 
+                "modifiedDate": "2010-02-23T12:38:24", 
+                "addr1": "1725 NW Jenne Avenue", 
+                "postalCode": "97229", 
+                "photoName": "1725-nw-jenne.jpg", 
+                "submittedByName": "Ross and Nancy Miller", 
+                "description": "Built by Doug Trotter"
+            }, 
+            "id": "bb37047612bb8d04a1423b3953011599"
+        }
+    ]
+}
