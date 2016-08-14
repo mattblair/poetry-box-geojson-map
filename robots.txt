@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /poetry-boxes150301.geojson
