@@ -20,7 +20,7 @@
 	var map = L.mapbox.map('map', 'elsewise.lbij32pa')
 	    .setView([45.51, -122.7], 12);
 		var featureLayer = L.mapbox.featureLayer()
-		    .loadURL('http://poetrybox.info/poetry-boxes150301.geojson')
+		    .loadURL('https://poetrybox.info/poetry-boxes150301.geojson')
 			.on('ready', function(layer) {
 				this.eachLayer(function(marker) {
 					// adapted from: 
