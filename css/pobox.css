@@ -1,0 +1,38 @@
+body { 
+    margin: 0;
+    padding: 0;
+    font-family: 'Metrophobic', 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+#map { 
+    position: absolute; 
+    top: 0; 
+    bottom: 0; 
+    width:100%; 
+}
+
+#location-button {
+    background: #434343;
+    color: #FFF;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 160px;
+    /*margin:-20px 0 0 -80px;*/
+    /* Use this for bottom left */
+    /*margin: 35px 20px;*/
+    margin: 20px;
+    z-index:100;
+    text-align: center;
+    padding: 10px;
+    border:1px solid rgba(0,0,0,0.4);
+    /*border-radius:3px;*/
+    text-decoration: none;
+}
+
+ #location-button:hover {
+    /*background: #3074a4;*/
+    color: #f7c873;
+}
